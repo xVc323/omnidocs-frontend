@@ -1,0 +1,237 @@
+{
+  "b9c16c1c-b6f5-4a8a-8d1f-4783f4e499bb": {
+    "id": "b9c16c1c-b6f5-4a8a-8d1f-4783f4e499bb",
+    "url": "https://docs.kraken.com/api/docs/futures-api/websocket/book",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:11:58.897Z",
+    "updatedAt": "2025-05-19T21:12:10.908Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/b9c16c1c-b6f5-4a8a-8d1f-4783f4e499bb/all_docs.md"
+  },
+  "9430e854-2dfa-4b62-a848-c25453a30208": {
+    "id": "9430e854-2dfa-4b62-a848-c25453a30208",
+    "url": "https://docs.kraken.com/api/docs/futures-api/websocket/book",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:12:23.929Z",
+    "updatedAt": "2025-05-19T21:12:35.938Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/9430e854-2dfa-4b62-a848-c25453a30208/all_docs.md"
+  },
+  "00f7cccf-7661-4c3a-9b4d-c78f265e0f6a": {
+    "id": "00f7cccf-7661-4c3a-9b4d-c78f265e0f6a",
+    "url": "https://docs.kraken.com/api/docs/futures-api/websocket/book",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:18:07.163Z",
+    "updatedAt": "2025-05-19T21:18:19.176Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/00f7cccf-7661-4c3a-9b4d-c78f265e0f6a/all_docs.md"
+  },
+  "e78f1bd6-398a-422c-aacd-9f7cb67e5042": {
+    "id": "e78f1bd6-398a-422c-aacd-9f7cb67e5042",
+    "url": "https://docs.kraken.com/api/docs/futures-api/websocket/book",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:33:10.738Z",
+    "updatedAt": "2025-05-19T21:33:22.772Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/e78f1bd6-398a-422c-aacd-9f7cb67e5042/all_docs.md"
+  },
+  "b0ec1400-0952-4e61-b7a3-2ce724475f53": {
+    "id": "b0ec1400-0952-4e61-b7a3-2ce724475f53",
+    "url": "https://docs.kraken.com/api/docs/futures-api/websocket/book",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:35:15.677Z",
+    "updatedAt": "2025-05-19T21:35:27.689Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/b0ec1400-0952-4e61-b7a3-2ce724475f53/all_docs.md"
+  },
+  "e795b09a-9194-4897-8fd1-2fa9c36daa69": {
+    "id": "e795b09a-9194-4897-8fd1-2fa9c36daa69",
+    "url": "https://docs.kraken.com/api/docs/futures-api/websocket/book",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:36:26.392Z",
+    "updatedAt": "2025-05-19T21:36:38.403Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/e795b09a-9194-4897-8fd1-2fa9c36daa69/all_docs.md"
+  },
+  "4500a09f-8f0c-44c4-a4ec-95901a1d2083": {
+    "id": "4500a09f-8f0c-44c4-a4ec-95901a1d2083",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:41:15.437Z",
+    "updatedAt": "2025-05-19T21:41:27.446Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/4500a09f-8f0c-44c4-a4ec-95901a1d2083/all_docs.md"
+  },
+  "b8b1dd7b-6dac-488c-b4b5-648d18f43197": {
+    "id": "b8b1dd7b-6dac-488c-b4b5-648d18f43197",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:42:11.452Z",
+    "updatedAt": "2025-05-19T21:42:23.465Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/b8b1dd7b-6dac-488c-b4b5-648d18f43197/all_docs.md"
+  },
+  "cedfd2c9-66bb-4cb7-bd77-30b363ea07af": {
+    "id": "cedfd2c9-66bb-4cb7-bd77-30b363ea07af",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:50:58.379Z",
+    "updatedAt": "2025-05-19T21:51:03.395Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/cedfd2c9-66bb-4cb7-bd77-30b363ea07af/all_docs.md"
+  },
+  "02e4c5df-7639-4d4a-bf9c-9558075f1b1f": {
+    "id": "02e4c5df-7639-4d4a-bf9c-9558075f1b1f",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:54:32.227Z",
+    "updatedAt": "2025-05-19T21:54:37.236Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/02e4c5df-7639-4d4a-bf9c-9558075f1b1f/all_docs.md"
+  },
+  "50082495-7bbe-442f-b963-71c612b7b666": {
+    "id": "50082495-7bbe-442f-b963-71c612b7b666",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:57:04.985Z",
+    "updatedAt": "2025-05-19T21:57:10.002Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/50082495-7bbe-442f-b963-71c612b7b666/all_docs.md"
+  },
+  "26062538-8362-46fa-9cbb-424267ee6274": {
+    "id": "26062538-8362-46fa-9cbb-424267ee6274",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T21:59:34.029Z",
+    "updatedAt": "2025-05-19T21:59:39.041Z",
+    "message": "Conversion completed",
+    "r2Key": "jobs/26062538-8362-46fa-9cbb-424267ee6274/all_docs.md"
+  },
+  "b0a0e795-0c69-4bd9-ba43-b4402cda2455": {
+    "id": "b0a0e795-0c69-4bd9-ba43-b4402cda2455",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "failed",
+    "createdAt": "2025-05-19T22:05:23.485Z",
+    "updatedAt": "2025-05-19T22:05:23.520Z",
+    "message": "Starting conversion process...",
+    "error": "API error: 404 - {\"detail\":\"Not Found\"}"
+  },
+  "1d029fb5-ad42-4f7b-8718-d7df2da2d5ae": {
+    "id": "1d029fb5-ad42-4f7b-8718-d7df2da2d5ae",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "failed",
+    "createdAt": "2025-05-19T22:07:44.858Z",
+    "updatedAt": "2025-05-19T22:07:44.888Z",
+    "message": "Starting conversion process...",
+    "error": "API error: 404 - {\"detail\":\"Not Found\"}"
+  },
+  "17bdc30a-b271-490f-9d51-e7eaa7f7113b": {
+    "id": "17bdc30a-b271-490f-9d51-e7eaa7f7113b",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "failed",
+    "createdAt": "2025-05-19T22:10:07.508Z",
+    "updatedAt": "2025-05-19T22:13:18.098Z",
+    "message": "Converting (Pandoc): https://docs.stripe.com/api/invoiceitems",
+    "apiTaskId": "9cf78b6e-c150-4470-8698-7ef7ddc054d9",
+    "error": "name 'crawled_pages_count' is not defined"
+  },
+  "fd14cf66-87c3-4cf3-b4c9-e2662f0f9bb2": {
+    "id": "fd14cf66-87c3-4cf3-b4c9-e2662f0f9bb2",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "failed",
+    "createdAt": "2025-05-19T22:15:54.462Z",
+    "updatedAt": "2025-05-19T22:17:53.003Z",
+    "message": "Fetching: https://docs.stripe.com/api/files",
+    "apiTaskId": "83b8a72d-0be0-4d85-b64f-5ae04a0c3dfc",
+    "error": "name 'crawled_pages_count' is not defined"
+  },
+  "af4690d1-9d2e-41ee-ac5b-5381460a4abb": {
+    "id": "af4690d1-9d2e-41ee-ac5b-5381460a4abb",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T22:19:30.386Z",
+    "updatedAt": "2025-05-19T22:21:32.849Z",
+    "message": "Conversion completed",
+    "apiTaskId": "c9c21c5d-2991-45fb-871b-854ea7db0f58"
+  },
+  "a1de68f2-e531-4d35-b744-cd646440dc54": {
+    "id": "a1de68f2-e531-4d35-b744-cd646440dc54",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T22:32:03.489Z",
+    "updatedAt": "2025-05-19T22:33:57.994Z",
+    "message": "Conversion completed",
+    "apiTaskId": "68760c29-f444-45c6-9d6c-f0870b0758fc"
+  },
+  "4490c597-1027-4e31-8f46-193709505e8d": {
+    "id": "4490c597-1027-4e31-8f46-193709505e8d",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T22:41:22.925Z",
+    "updatedAt": "2025-05-19T22:43:23.441Z",
+    "message": "Conversion completed",
+    "apiTaskId": "f8baab96-ac2b-42a7-831b-40880e3fcb2e"
+  },
+  "f19802a1-5970-485d-a949-b6d0819d65a2": {
+    "id": "f19802a1-5970-485d-a949-b6d0819d65a2",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T22:56:24.236Z",
+    "updatedAt": "2025-05-19T22:56:38.363Z",
+    "message": "Conversion completed",
+    "apiTaskId": "3d1626f1-c09d-43f7-8aac-89c6b50b533e"
+  },
+  "ebd82c19-72a8-40ff-a5f2-bb8620f1a998": {
+    "id": "ebd82c19-72a8-40ff-a5f2-bb8620f1a998",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T23:05:38.398Z",
+    "updatedAt": "2025-05-19T23:05:52.546Z",
+    "message": "Conversion completed",
+    "apiTaskId": "bd2fb731-9390-49e0-93d0-2d2c760986b2"
+  },
+  "9b2b8ddc-76d6-47b8-92db-cd49cc5c0011": {
+    "id": "9b2b8ddc-76d6-47b8-92db-cd49cc5c0011",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "failed",
+    "createdAt": "2025-05-19T23:16:03.720Z",
+    "updatedAt": "2025-05-19T23:16:19.857Z",
+    "message": "Converting (Pandoc): https://docs.stripe.com/api/request_ids",
+    "apiTaskId": "de0f79cf-4553-4dd4-b494-7f522aba7be6",
+    "error": "name 'R2_OBJECT_EXPIRATION_HOURS' is not defined"
+  },
+  "dbfb486a-02f0-4c55-a6e5-d2e6b8a63f9c": {
+    "id": "dbfb486a-02f0-4c55-a6e5-d2e6b8a63f9c",
+    "url": "https://docs.stripe.com/api",
+    "outputFormat": "single_md",
+    "status": "completed",
+    "createdAt": "2025-05-19T23:17:45.380Z",
+    "updatedAt": "2025-05-19T23:18:01.513Z",
+    "message": "Conversion completed",
+    "apiTaskId": "252cddc3-1327-4012-85c7-76d14484ba67",
+    "r2Key": "252cddc3-1327-4012-85c7-76d14484ba67/all_docs.md",
+    "expiresAt": "2025-05-20T02:17:59.815306"
+  }
+}

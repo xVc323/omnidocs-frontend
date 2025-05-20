@@ -1,0 +1,9 @@
+# Ignore build files
+.next/
+out/
+
+# Ignore node_modules
+node_modules/
+
+# Exclude API routes from linting
+src/app/api/ 

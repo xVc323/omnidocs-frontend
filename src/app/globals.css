@@ -1,12 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #4f46e5;
+  --primary-hover: #4338ca;
+  --secondary: #f3f4f6;
+  --secondary-hover: #e5e7eb;
+  --border: #d1d5db;
+  --input-bg: #ffffff;
+  --card-bg: #ffffff;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --primary: #6366f1;
+    --primary-hover: #818cf8;
+    --secondary: #1f2937;
+    --secondary-hover: #374151;
+    --border: #4b5563;
+    --input-bg: #1f2937;
+    --card-bg: #111827;
   }
 }
 
@@ -19,7 +37,7 @@ body {
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans, Arial, Helvetica, sans-serif);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -33,6 +51,46 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+}
+
+input, select, button {
+  font-family: inherit;
+}
+
+/* Custom button styles */
+.btn {
+  @apply px-4 py-2 rounded-md font-medium transition-colors duration-200;
+}
+
+.btn-primary {
+  @apply bg-indigo-600 hover:bg-indigo-700 text-white;
+}
+
+.btn-secondary {
+  @apply bg-gray-200 hover:bg-gray-300 text-gray-800 dark:bg-gray-700 dark:hover:bg-gray-600 dark:text-white;
+}
+
+/* Card styling */
+.card {
+  @apply bg-white dark:bg-gray-900 rounded-lg shadow-md border border-gray-200 dark:border-gray-700;
+}
+
+/* Form elements */
+.input {
+  @apply w-full px-4 py-2 bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded-md 
+  focus:ring-2 focus:ring-indigo-500 dark:focus:ring-indigo-400 focus:border-indigo-500 dark:focus:border-indigo-400
+  text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 transition-colors duration-200;
+}
+
+.select {
+  @apply w-full px-4 py-2 bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded-md
+  focus:ring-2 focus:ring-indigo-500 dark:focus:ring-indigo-400 focus:border-indigo-500 dark:focus:border-indigo-400
+  text-gray-900 dark:text-white transition-colors duration-200;
+}
+
+/* Advanced panel */
+.advanced-panel {
+  @apply p-4 border border-gray-200 dark:border-gray-700 rounded-md space-y-4 bg-gray-50 dark:bg-gray-800;
 }
 
 @media (prefers-color-scheme: dark) {

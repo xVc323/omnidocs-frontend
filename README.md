@@ -1,24 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OmniDocs Converter - Frontend
+
+This is the frontend for OmniDocs Converter, a tool that converts documentation websites into Markdown files. Built with Next.js, React, and Tailwind CSS.
+
+## Features
+
+- Clean, intuitive UI with dark mode support
+- Mobile-responsive design
+- Real-time progress updates during document conversion
+- Advanced options for specifying path prefixes and exclusions
+- Support for multiple output formats (ZIP with multiple MD files or single MD file)
 
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment Variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This frontend requires a backend API to function properly. Create a `.env.local` file with:
+
+```
+# API endpoint for the OmniDocs backend
+NEXT_PUBLIC_API_URL=http://localhost:8000
+```
+
+## Backend Requirements
+
+This frontend works with the OmniDocs backend API. Make sure the backend server is running before using the frontend. See the main repository README for backend setup instructions.
+
+## Developing
+
+- `src/app/page.tsx` - The main page component
+- `src/app/globals.css` - Global styles and Tailwind CSS customizations
+- `src/app/layout.tsx` - Root layout component
+
+## Building for Production
+
+To create an optimized production build:
+
+```bash
+npm run build
+# or
+yarn build
+```
+
+Start the production server:
+
+```bash
+npm run start
+# or
+yarn start
+```
 
 ## Learn More
 
