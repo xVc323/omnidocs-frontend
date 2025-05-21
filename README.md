@@ -1,6 +1,6 @@
 # OmniDocs Converter - Frontend
 
-This is the frontend for OmniDocs Converter, a tool that converts documentation websites into Markdown files. Built with Next.js, React, and Tailwind CSS.
+This is the frontend for OmniDocs Converter, a tool that converts documentation websites into Markdown files that are **LLM-friendly and ready for AI ingestion**. Built with Next.js, React, and Tailwind CSS.
 
 ## Features
 
@@ -9,6 +9,7 @@ This is the frontend for OmniDocs Converter, a tool that converts documentation 
 - Real-time progress updates during document conversion
 - Advanced options for specifying path prefixes and exclusions
 - Support for multiple output formats (ZIP with multiple MD files or single MD file)
+- **LLM-Optimized Output**: All generated Markdown is structured for easy use in large language models, RAG, and vector databases
 
 ## Getting Started
 
