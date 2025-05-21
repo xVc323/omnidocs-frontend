@@ -1,3 +1,6 @@
+> **This is the frontend for [OmniDocs](https://github.com/xVc323/omnidocs).**
+> For backend setup, API details, and more, see the [main OmniDocs repository](https://github.com/xVc323/omnidocs).
+
 # OmniDocs Converter - Frontend
 
 This is the frontend for OmniDocs Converter, a tool that converts documentation websites into Markdown files that are **LLM-friendly and ready for AI ingestion**. Built with Next.js, React, and Tailwind CSS.
@@ -42,7 +45,9 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 ## Backend Requirements
 
-This frontend works with the OmniDocs backend API. Make sure the backend server is running before using the frontend. See the main repository README for backend setup instructions.
+This frontend works with the [OmniDocs backend API](https://github.com/xVc323/omnidocs).
+Make sure the backend server is running before using the frontend.
+See the [main repository README](https://github.com/xVc323/omnidocs#readme) for backend setup instructions.
 
 ## Developing
 
