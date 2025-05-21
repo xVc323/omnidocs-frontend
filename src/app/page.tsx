@@ -304,7 +304,7 @@ export default function Home() {
       <footer className="w-full max-w-2xl mt-8 text-center text-sm text-gray-400">
         <p>© 2025 OmniDocs Converter. All rights reserved.</p>
         <a 
-          href="https://github.com/yourusername/omnidocs" 
+          href="https://github.com/xvc323/omnidocs" 
           target="_blank" 
           rel="noopener noreferrer"
           className="mt-2 inline-flex items-center hover:text-indigo-400 transition-colors"
